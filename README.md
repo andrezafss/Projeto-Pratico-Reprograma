@@ -1,8 +1,5 @@
 <h1 align="center">
-  <br>
-  <img src="assets/developer.png" alt="mulher negra usando computador" width="216">
-  <br>
-    <br>
+ 
     <p align="center">Projeto Prático - Semana 8<p>
 </h1>
 
