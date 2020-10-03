@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "titulo": "Brisa",
+        "duracao": "02:32",
+        "artista": "Iza"
+    },
+    {
+        "id":2,
+        "titulo": "Dengo",
+        "duracao": "04:34",
+        "artista": "Anavitoria"
+    },
+    {
+        "id":3,
+        "titulo": "Trevo",
+        "duracao": "04:10",
+        "artista": "Anavitoria"
+    },
+    {
+        "id":4,
+        "titulo": "Pupila",
+        "duracao": "04:10",
+        "artista": "Anavitoria"
+    }
+
+]
