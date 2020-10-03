@@ -1,6 +1,6 @@
 <h1 align="center">
  
-    "center">Projeto Prático - Semana 8
+    Projeto Prático - Semana 8
 </h1>
 
 # Let's do this
